@@ -1,4 +1,4 @@
 # MarzipanoToolsHelperAddon
 A repository for a Google Chrome Addon "Marzipano Tools Helper".
 
-A small tool that makes quality of life changes to how the Marzipano Tool works.
+A small tool that makes quality of life changes to how the [Marzipano Tool](https://www.marzipano.net/tool/) works.
