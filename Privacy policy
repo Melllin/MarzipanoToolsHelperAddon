@@ -1,0 +1,36 @@
+Privacy Policy for Marzipano Tools Helper addon
+Introduction
+Welcome to the privacy policy for the Marzipano Tools Helper addon. Your privacy is important to us, and we are committed to protecting your personal information. This policy explains how we handle data collected by the Marzipano Tools Helper addon.
+
+Data Collection
+The Marzipano Tools Helper addon does not collect any personal data from users. The extension operates entirely within your browser and does not transmit any data to external servers or third parties.
+
+Data Usage
+TheMarzipano Tools Helper addon uses Chrome's storage to save user preferences, such as:
+
+Zoom level settings
+Click delay timings for specific buttons
+This data is stored locally on your device and is not shared with anyone.
+
+Permissions
+The extension requires the following permissions to function properly:
+
+tabs: To interact with the browser's tab system, such as opening a new tab to a specific website from the popup.
+activeTab: To adjust the zoom level and perform actions like clicking buttons on the currently active tab.
+scripting: To inject JavaScript code into web pages for adjusting the zoom level and simulating button clicks.
+storage: To save and retrieve user settings like the zoom level and delays for button clicks.
+host_permissions: To specify the websites the extension can interact with, ensuring it only runs on the intended websites.
+
+Data Security
+We prioritize the security of your data. The extension's operations are confined to your local browser environment, and no data is transmitted or stored outside your device.
+
+User Control
+Users have full control over the data stored by the extension. You can modify or delete your settings at any time through the extension's interface.
+
+Changes to This Policy
+We may update this privacy policy from time to time. Any changes will be posted on this page, and we will notify users of significant changes through appropriate channels.
+
+Contact Us
+If you have any questions or concerns about this privacy policy, please contact us at mellinprojects@thang.org.
+
+By using the Marzipano Tools Helper addon, you agree to the terms outlined in this privacy policy.
