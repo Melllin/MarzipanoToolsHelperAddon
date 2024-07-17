@@ -15,9 +15,6 @@ This data is stored locally on your device and is not shared with anyone.
 Permissions
 The extension requires the following permissions to function properly:
 
-tabs: To interact with the browser's tab system, such as opening a new tab to a specific website from the popup.
-activeTab: To adjust the zoom level and perform actions like clicking buttons on the currently active tab.
-scripting: To inject JavaScript code into web pages for adjusting the zoom level and simulating button clicks.
 storage: To save and retrieve user settings like the zoom level and delays for button clicks.
 host_permissions: To specify the websites the extension can interact with, ensuring it only runs on the intended websites.
 
